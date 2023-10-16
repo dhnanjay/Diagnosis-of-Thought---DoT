@@ -14,3 +14,8 @@ Thе Diagnosis of Thought (DoT) framеwork is basеd on a systеmatic approach t
 [Research Paper](https://arxiv.org/pdf/2310.07146v1.pdf)
 
 Note: Not an official implementation as I am not the author of the research paper.
+
+Disclaimer
+
+This software is provided 'as-is', without any guarantees or warranties. By using the script you agree to assume all associated risks, including but not limited to data loss, system issues, or any unforeseen challenges.
+
